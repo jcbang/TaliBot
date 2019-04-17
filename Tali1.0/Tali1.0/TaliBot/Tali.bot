@@ -1,0 +1,15 @@
+﻿{
+  "name": "Tali",
+  "services": [
+    {
+      "type": "endpoint",
+      "name": "development",
+      "endpoint": "http://localhost:3978/api/messages",
+      "appId": "33da33d0-6840-41b5-8b40-9b419f7cfd3e",
+      "appPassword": "imkELCOD[jcghTT19307-]{",
+      "id": "c3017792-cbb1-405d-9720-89d1719211d8"
+    }
+  ],
+  "padlock": "",
+  "version": "2.0"
+}
